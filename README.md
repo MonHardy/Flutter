@@ -1,5 +1,7 @@
 # About
-## Projetos em Flutter
+Repository in order to gather projects and studies on Dart and Flutter.
+
+
 
 ## Lista:
 1. Introdução
